@@ -6,8 +6,8 @@ authors = ["bczhc <bczhc0@126.com>"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 description = "A crate that just simply stores all UCD data as a `static` array"
-repository = "https://github.com/bczhc/ucd-data"
-homepage = "https://github.com/bczhc/ucd-data"
+repository = "https://github.com/bczhc/ucd-data-rs"
+homepage = "https://github.com/bczhc/ucd-data-rs"
 keywords = ["unicode", "ucd", "character"]
 
 [dependencies]
