@@ -1,0 +1,16 @@
+[package]
+name = "ucd-data"
+version = "0.1.0"
+edition = "2021"
+authors = ["bczhc <bczhc0@126.com>"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = "A crate that just simply stores all UCD data as a `static` array"
+repository = "https://github.com/bczhc/ucd-data"
+homepage = "https://github.com/bczhc/ucd-data"
+keywords = ["unicode", "ucd", "character"]
+
+[dependencies]
+
+[build-dependencies]
+bzip3 = { version = "0.2.3", features = ["bundled"]}

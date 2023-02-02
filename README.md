@@ -1,0 +1,1 @@
+A crate that just simply stores all UCD data as a `static` array.
